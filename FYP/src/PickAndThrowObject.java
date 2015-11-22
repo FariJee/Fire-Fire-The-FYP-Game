@@ -12,7 +12,7 @@ public class PickUpObject : MonoBehaviour {
 	public float smooth;
 	GameObject carryObject;
 	bool carrying;
-
+	//farhan ali
 	void start() {
 		mainCamera = GameObject.FindWithTag("MainCamera");
 	}
